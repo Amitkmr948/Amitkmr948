@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Amit Kumar
 
 🎓 I'm currently pursuing **Electronics and Communication Engineering (ECE)** at the **Indian Institute of Information Technology Jabalpur**.  
-💡 I'm passionate about **exploring both software and hardware technologies**.
+💡 I'm passionate about **exploring Data Analyst, Data Science and Machine Learning**.
 
 📧 Email Me 👉 ✉️ **kamit169104@gmail.com**  😊😊
 ## 🌐 Socials:
